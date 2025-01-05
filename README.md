@@ -1,6 +1,6 @@
 
 # The Bee Garden Lab Collection
-Welcome to the Bee Garden Lab Collection! This repository is a design patterns project that I've worked on with Mathias Galvan during my sophomore year at the Milwaukee School of Engineering!
+Welcome to the Bee Garden Lab Collection! This repository is a design patterns project that I've worked on with [Mathias Galvan](https://www.linkedin.com/in/mathias-galvan/) during my sophomore year at the Milwaukee School of Engineering!
 
 ## Lab Description
 The goal of this lab was to develop a simple garden simulator. In this simulator, the bees visit flowers for food, and the flowers can drain energy. The garden will be shown with bees moving above the flower bed. 
